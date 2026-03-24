@@ -21,5 +21,7 @@ int main(){
     cout<<x <<endl;
 
     x = x - 90;
-    cout<<x <<endl;;
+
+    cout<<x <<endl;
+
 }
